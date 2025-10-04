@@ -1,6 +1,4 @@
-Absolutely! Here’s a **ready-to-paste `README.md`** for your **Secure Notebook** project. You can copy it as-is into your repo.
 
-````markdown
 # 📝 Secure Notebook
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,7 +7,6 @@ Absolutely! Here’s a **ready-to-paste `README.md`** for your **Secure Notebook
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 A **secure notepad application** with **face/password login**, **encrypted notes**, and a **React + Flask** architecture.
-````
 
 ---
 
@@ -96,4 +93,5 @@ npm start                    # Run React frontend
 ---
 
 > *“Secure your ideas, one note at a time!”* ✨
+
 
